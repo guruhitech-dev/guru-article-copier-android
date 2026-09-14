@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Copia articolo</string>
+    <string name="url_hint">Incolla l’URL di un articolo</string>
+    <string name="read">Leggi</string>
+    <string name="copy_all">Copia tutto</string>
+    <string name="open_original">Apri pagina originale</string>
+    <string name="welcome">Condividi qui un articolo oppure incolla il suo URL.</string>
+</resources>
+
